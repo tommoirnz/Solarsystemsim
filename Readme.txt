@@ -5,7 +5,8 @@ the Sun,Moon,Earth,Mercury,Venus,Mars,Jupiter and Saturn. add the various .jpg f
 
 Good enough to get a good idea. Isn't exact scaling of course as Sun would be too big but gives a visual illustration.
 
-The program will run when you execute it on your default web browser.
+The program will run when you execute it on your default web browser. Uses pygame math and vpython linraries. Currently I run it on Pycharm environment
+.
 
 
 tomspeechnz@gmail.com
